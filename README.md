@@ -1,6 +1,7 @@
-# ana505-week3Ractivity
+# ANA505: Week 3 R Activity
 a repository to hold my week 3 R activity code for ANA-505 Data Mining course
 
+```ruby
 #ANA-505 Data Mining
 #Week 3 - Activity 3
 #Aspasie Song
@@ -81,4 +82,6 @@ library(package = "ggplot2")
 #(you should see the chart in the Plots window)
 ggplot(AspasieTitanic, aes(Survived, Freq)) +
   geom_col()
+
+```
 
